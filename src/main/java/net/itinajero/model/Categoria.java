@@ -1,4 +1,4 @@
-package net.itinajero.model;
+ package net.itinajero.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
